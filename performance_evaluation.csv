@@ -1,0 +1,271 @@
+Domande,Risposte,response_time,embedding_model,llm_model,retrieval_effectivness,llm_semantic_effectivness,llm_syntax_grammar_effectivness
+Dov'è nata la mozzarella di bufala?,,,sentence-transformers/all-mpnet-base-v2,declare-lab/flan-alpaca-large,0,1,1
+,"La mozzarella di bufala è originaria dell'Italia. È un bovino, probabilmente originario dell'Asia e dell'Europa per il suo DNA che lo differenzia da qualsiasi altra specie di bufalo (es: asiatico). Il primo documento ufficiale che parla del formaggio Aversa risale all'inizio del XV secolo ma esiste da secoli prima di essere introdotto in molti piatti italiani come la pizza o i sughi per la pasta.",,sentence-transformers/all-mpnet-base-v2,declare-lab/flan-alpaca-large,0,1,1
+,,31994.983434677124,sentence-transformers/all-mpnet-base-v2,declare-lab/flan-alpaca-large,0,1,1
+Dove viene prodotto la mozzarella di bufala?,,,sentence-transformers/all-mpnet-base-v2,declare-lab/flan-alpaca-large,0,1,1
+,"La mozzarella di bufala è prodotta in Italia. È un latticino originario della regione mediterranea italiana della Campania ed è stato preservato dal 1996, rendendolo una delle uniche due varietà di formaggio ad aver ottenuto la protezione per il suo status di origine come DOP ufficiale (Prodotto Biologico Protetto Distrettuale).",,sentence-transformers/all-mpnet-base-v2,declare-lab/flan-alpaca-large,0,1,1
+,,25923.682689666748,sentence-transformers/all-mpnet-base-v2,declare-lab/flan-alpaca-large,0,1,1
+Che cosa significa DOP?,,,sentence-transformers/all-mpnet-base-v2,declare-lab/flan-alpaca-large,0,1,1
+,"Denominazione di Origine Protetta. Questo è un modo per garantire che il formaggio provenga da un'area con elevati standard di qualità e sia stato prodotto in conformità con le normative stabilite dalle autorità governative o da altre organizzazioni, come i comuni o i mercati degli agricoltori.",,sentence-transformers/all-mpnet-base-v2,declare-lab/flan-alpaca-large,0,1,1
+,,33037.62626647949,sentence-transformers/all-mpnet-base-v2,declare-lab/flan-alpaca-large,0,1,1
+Quali sono i valori nutrizionali della mozzarella di bufala campana DOP?,,,sentence-transformers/all-mpnet-base-v2,declare-lab/flan-alpaca-large,0,1,1
+,"La mozzarella di bufala campana DOP è particolarmente nutriente per il ridotto contenuto di zuccheri, colesterolo e lattosio. Presenta un moderato apporto di grassi totali e acidi grassi saturi nonché un'ottima fonte di proteine ​​ad alto valore biologico a cui si associa anche la presenza di bassi livelli di sodio (meno di 0,25 mg per 100 grammi).",,sentence-transformers/all-mpnet-base-v2,declare-lab/flan-alpaca-large,0,1,1
+,,46030.77673912048,sentence-transformers/all-mpnet-base-v2,declare-lab/flan-alpaca-large,0,1,1
+Qual'è la storia della mozzarella di bufala?,,,sentence-transformers/all-mpnet-base-v2,declare-lab/flan-alpaca-large,0,1,1
+,"La storia della mozzarella di bufala risale al 500 a.C., quando c'era bisogno di formaggi che potessero conservarsi più a lungo e abbassare l'acidità attraverso la filatura a caldo. Questo processo è utilizzato ancora oggi poiché aiuta a preservare il latte dall'essere rovinato dal calore o da altre fonti come l'aria condizionata durante i mesi estivi.",,sentence-transformers/all-mpnet-base-v2,declare-lab/flan-alpaca-large,0,1,1
+,,27745.75424194336,sentence-transformers/all-mpnet-base-v2,declare-lab/flan-alpaca-large,0,1,1
+Quanto latte serve per produrre un chilo di mozzarella?,,,sentence-transformers/all-mpnet-base-v2,declare-lab/flan-alpaca-large,0,1,1
+,"Per produrne un chilo sono necessari circa 4,2 litri di latte. Questo perché la mozzarella richiede latte fresco e intero di bufala ed è composta da grassi di origine bovina ricchi di proteine ​​come la lattoferrina (che aiuta a conferire alla mozzarella la sua consistenza cremosa).",,sentence-transformers/all-mpnet-base-v2,declare-lab/flan-alpaca-large,0,1,1
+,,24606.853008270264,sentence-transformers/all-mpnet-base-v2,declare-lab/flan-alpaca-large,0,1,1
+Quanto costa all'incirca una mozzarella?,,,sentence-transformers/all-mpnet-base-v2,declare-lab/flan-alpaca-large,0,1,1
+,"Il prezzo medio della mozzarella in Campania è intorno ai 12 euro, mentre in genere è superiore ai 16 euro. Dipende dalla regione e dal tipo di formaggio da cui stai acquistando, nonché da quanto tempo impiega per preparare la tua pizza o se ci saranno costi aggiuntivi per i servizi di consegna/ritiro come condimenti extra come funghi ecc. che potrebbero aggiungere un costo aggiuntivo (es: spedizione gratuita).",,sentence-transformers/all-mpnet-base-v2,declare-lab/flan-alpaca-large,0,1,1
+,,31002.58016586304,sentence-transformers/all-mpnet-base-v2,declare-lab/flan-alpaca-large,0,1,1
+Come riconoscere una mozzarella di qualità?,,,sentence-transformers/all-mpnet-base-v2,declare-lab/flan-alpaca-large,0,1,1
+,"Il modo migliore per riconoscere la mozzarella di qualità è cercare i segni di maturazione, come la consistenza morbida e cremosa. Guarda anche la quantità di umidità contenuta; ciò può indicare che ci sono problemi con il suo processo produttivo o la sua mancanza a causa di condizioni di conservazione inadeguate. Inoltre, fai attenzione a eventuali odori insoliti come aromi di aglio che potrebbero essere indicativi di potenziali truffatori che potrebbero tentare di indurti ad acquistare i loro prodotti senza verificare prima la tua identità prima di acquistarli da una fonte inaffidabile.",,sentence-transformers/all-mpnet-base-v2,declare-lab/flan-alpaca-large,0,1,1
+,,38986.592292785645,sentence-transformers/all-mpnet-base-v2,declare-lab/flan-alpaca-large,0,1,1
+Quali sono gli abbinamenti culinari della mozzarella di Bufala Dop?,,,sentence-transformers/all-mpnet-base-v2,declare-lab/flan-alpaca-large,0,1,1
+,"Non lo so. Gli abbinamenti culinari della Mozzarella di Bufala Campana DOP sono: 1. Pasta caprese con mozzarella di bufala, pomodoro e olive di Gaeta 2. Panzerotto condito con basilico fresco 3. Bufala in carrozza 4. Pizza ricavata da esso 5. Pastrami",,sentence-transformers/all-mpnet-base-v2,declare-lab/flan-alpaca-large,0,1,1
+,,40270.32589912415,sentence-transformers/all-mpnet-base-v2,declare-lab/flan-alpaca-large,0,1,1
+Come si produce la mozzarella di bufala campana DOP?,,,sentence-transformers/all-mpnet-base-v2,declare-lab/flan-alpaca-large,0,1,1
+,Per ottenere la DOP le aziende produttrici devono produrre il formaggio esclusivamente con il latte delle bufale allevate in questi comuni. Ciò garantisce che sia prodotto senza alcun additivo o conservante e non contenga sottoprodotti di origine animale come il rumine (che si può trovare in alcune catene di supermercati).,,sentence-transformers/all-mpnet-base-v2,declare-lab/flan-alpaca-large,0,1,1
+,,40888.665199279785,sentence-transformers/all-mpnet-base-v2,declare-lab/flan-alpaca-large,0,1,1
+Dov'è nata la mozzarella di bufala?,,,sentence-transformers/all-mpnet-base-v2,juierror/flan-t5-text2sql-with-schema,0,1,1
+,"UN). Le ipotesi sulla nascita della mozzarella sono diverse, ma risalgono tutte al Medioevo[19]. Storia[modifica | modifica wikitesto] non cita le fonti necessarie o quelle presenti sono insufficienti migliorare questa voce aggiungendo citazioni da fonti attendibili secondo le linee guida sull'uso delle risorse. Il bufalo mediterraneo italiano di Paestum, da cui viene ricavata la mozzarella, è un bovino, probabilmente autoctono, come dimostra la presenza di un DNA diverso da qualunque altro genere di bufalo[18] asiatico, di corporatura più massiccia, di colore scuro e con peli corti a pelo lungo, abituati a vivere in zone paludose, nel cui fango sono soliti rotolarsi per la salute della propria pelle e per proteggersi dalle eccessive radiazioni solari. Le ipotesi sulla nascita della mozzarella sono diverse, ma risalgono tutte al Medioevo[19].",,sentence-transformers/all-mpnet-base-v2,juierror/flan-t5-text2sql-with-schema,0,1,1
+,,21673.50673675537,sentence-transformers/all-mpnet-base-v2,juierror/flan-t5-text2sql-with-schema,0,1,1
+Dove viene prodotto la mozzarella di bufala?,,,sentence-transformers/all-mpnet-base-v2,juierror/flan-t5-text2sql-with-schema,0,1,1
+,"Italia e il primo nel sud. Viene prodotto nella tipica forma tonda in pezzature che vanno dalla ciliegia alla zizzona, tipica di Battipaglia.",,sentence-transformers/all-mpnet-base-v2,juierror/flan-t5-text2sql-with-schema,0,1,1
+,,7400.724411010742,sentence-transformers/all-mpnet-base-v2,juierror/flan-t5-text2sql-with-schema,0,1,1
+Che cosa significa DOP?,,,sentence-transformers/all-mpnet-base-v2,juierror/flan-t5-text2sql-with-schema,0,1,1
+,"Denominazione di Origine Protetta. Dagli anni Novanta, il riconoscimento della “DOP” (Denominazione di Origine Protetta) garantisce i consumatori e specifica l'area geografica in cui viene prodotto.",,sentence-transformers/all-mpnet-base-v2,juierror/flan-t5-text2sql-with-schema,0,1,1
+,,10795.661926269531,sentence-transformers/all-mpnet-base-v2,juierror/flan-t5-text2sql-with-schema,0,1,1
+Quali sono i valori nutrizionali della mozzarella di bufala campana DOP?,,,sentence-transformers/all-mpnet-base-v2,juierror/flan-t5-text2sql-with-schema,0,1,1
+,"Facilmente digeribile, con un ridotto contenuto di zuccheri, colesterolo e lattosio, è anche un'ottima fonte di proteine ​​ad alto valore biologico, a cui si accompagna un moderato apporto di grassi totali e acidi grassi saturi. La mozzarella di bufala campana è particolarmente nutriente: l'apporto energetico è di 288 kcal/100 grammi grazie alla presenza di 16,7 g di proteine, 24,4 g di grassi, pochissimo lattosio (0,4 g%) e una quota di micronutrienti (vitamine e sali minerali). , tra cui meritano menzione calcio (210 mg %) e vitamina B12 (1,7 g %) Calorie 288 Kcal Proteine ​​16,7 g Grassi 24,4 g Colesterolo 56 mg Calcio 210 mg Le caratteristiche della mozzarella di bufala campana DOP[modifica | modifica wikitesto]",,sentence-transformers/all-mpnet-base-v2,juierror/flan-t5-text2sql-with-schema,0,1,1
+,,28827.28815078736,sentence-transformers/all-mpnet-base-v2,juierror/flan-t5-text2sql-with-schema,0,1,1
+Qual'è la storia della mozzarella di bufala?,,,sentence-transformers/all-mpnet-base-v2,juierror/flan-t5-text2sql-with-schema,0,1,1
+,"non citare le fonti necessarie o quelle presenti sono insufficienti migliorare questa voce aggiungendo citazioni da fonti attendibili secondo le linee guida sull'uso delle risorse. Il bufalo mediterraneo italiano di Paestum, da cui viene ricavata la mozzarella, è un bovino, probabilmente autoctono, come dimostra la presenza di un DNA diverso da qualunque altro genere di bufalo[18] asiatico, di corporatura più massiccia, di colore scuro e con peli corti a pelo lungo, abituati a vivere in zone paludose, nel cui fango sono soliti rotolarsi per la salute della propria pelle e per proteggersi dalle eccessive radiazioni solari. Le ipotesi sulla nascita della mozzarella sono diverse, ma risalgono tutte al Medioevo[19].",,sentence-transformers/all-mpnet-base-v2,juierror/flan-t5-text2sql-with-schema,0,1,1
+,,17185.98699569702,sentence-transformers/all-mpnet-base-v2,juierror/flan-t5-text2sql-with-schema,0,1,1
+Quanto latte serve per produrre un chilo di mozzarella?,,,sentence-transformers/all-mpnet-base-v2,juierror/flan-t5-text2sql-with-schema,0,1,1
+,"4,2 litri. Non è necessario aggiungere ulteriori informazioni o elementi riguardanti la genuinità e il gusto del pregiato latticino, conosciuto anche come “oro bianco”",,sentence-transformers/all-mpnet-base-v2,juierror/flan-t5-text2sql-with-schema,0,1,1
+,,5552.06823348999,sentence-transformers/all-mpnet-base-v2,juierror/flan-t5-text2sql-with-schema,0,1,1
+Quanto costa all'incirca una mozzarella?,,,sentence-transformers/all-mpnet-base-v2,juierror/flan-t5-text2sql-with-schema,0,1,1
+,"Se non espressamente indicato, tutti i diritti di sfruttamento e di utilizzazione economica del materiale fotografico presente sul sito Cookist sono da intendersi di proprietà del fornitore Getty Images. privacy policy cookie policy comitato di redazione modifica del consenso 12 agosto 2022 15:00",,sentence-transformers/all-mpnet-base-v2,juierror/flan-t5-text2sql-with-schema,0,1,1
+,,7865.801811218262,sentence-transformers/all-mpnet-base-v2,juierror/flan-t5-text2sql-with-schema,0,1,1
+Come riconoscere una mozzarella di qualità?,,,sentence-transformers/all-mpnet-base-v2,juierror/flan-t5-text2sql-with-schema,0,1,1
+,Utilizzando i seguenti strumenti: un esperto di formaggi. B. Un vero esperto. C. Il costo della mozzarella. D. Quanto dovrebbe costare la mozzarella e i trucchi per sceglierla secondo un vero esperto.,,sentence-transformers/all-mpnet-base-v2,juierror/flan-t5-text2sql-with-schema,0,1,1
+,,9250.116109848022,sentence-transformers/all-mpnet-base-v2,juierror/flan-t5-text2sql-with-schema,0,1,1
+Quali sono gli abbinamenti culinari della mozzarella di Bufala Dop?,,,sentence-transformers/all-mpnet-base-v2,juierror/flan-t5-text2sql-with-schema,0,1,1
+,"- Helpful (italiano: ""Mozzarella di Bufala Dop""), ""Helpful"" (italiano: ""Buffala Dop""), ""Anchore della Mozzeria""",,sentence-transformers/all-mpnet-base-v2,juierror/flan-t5-text2sql-with-schema,0,1,1
+,,12797.089338302612,sentence-transformers/all-mpnet-base-v2,juierror/flan-t5-text2sql-with-schema,0,1,1
+Come si produce la mozzarella di bufala campana DOP?,,,sentence-transformers/all-mpnet-base-v2,juierror/flan-t5-text2sql-with-schema,0,1,1
+,"SELEZIONA CONTEGGIO Preparazione[modifica | modifica wikitesto] Questo formaggio è prodotto solo con latte fresco intero di bufala di razza mediterranea italiana. Gli animali devono essere registrati all'anagrafe e sono allevati secondo le consuetudini locali in stabulazione semilibera, al pascolo aperto.",,sentence-transformers/all-mpnet-base-v2,juierror/flan-t5-text2sql-with-schema,0,1,1
+,,11172.229766845703,sentence-transformers/all-mpnet-base-v2,juierror/flan-t5-text2sql-with-schema,0,1,1
+Dov'è nata la mozzarella di bufala?,,,sentence-transformers/all-mpnet-base-v2,flan-t5-large,0,0,0
+,"Il bufalo mediterraneo italiano di Paestum, da cui viene prodotta la mozzarella, è un bovino, probabilmente autoctono, come dimostrato dalla presenza di un DNA diverso da qualsiasi altro tipo di bufalo",,sentence-transformers/all-mpnet-base-v2,flan-t5-large,0,0,0
+,,19037.713050842285,sentence-transformers/all-mpnet-base-v2,flan-t5-large,0,0,0
+Dove viene prodotto la mozzarella di bufala?,,,sentence-transformers/all-mpnet-base-v2,flan-t5-large,0,0,0
+,"La Campania DOP è stata prodotta nel 2022[6] Nord Ovest (34,9%), mentre circa un terzo dell'export è stato assorbito dalla Francia (33%).",,sentence-transformers/all-mpnet-base-v2,flan-t5-large,0,0,0
+,,16478.060483932495,sentence-transformers/all-mpnet-base-v2,flan-t5-large,0,0,0
+Che cosa significa DOP?,,,sentence-transformers/all-mpnet-base-v2,flan-t5-large,0,0,0
+,Denominazione di Origine Protetta) garantisce il consumatore e specifica la zona geografica in cui è prodotto. Denominazione di origine[modifica | modifica wikitesto],,sentence-transformers/all-mpnet-base-v2,flan-t5-large,0,0,0
+,,21827.48055458069,sentence-transformers/all-mpnet-base-v2,flan-t5-large,0,0,0
+Quali sono i valori nutrizionali della mozzarella di bufala campana DOP?,,,sentence-transformers/all-mpnet-base-v2,flan-t5-large,0,0,0
+,"Facilmente digeribile, con un ridotto contenuto di zuccheri, colesterolo e lattosio, è anche un'ottima fonte di proteine ​​ad alto valore biologico, a cui si accompagna un moderato apporto di grassi totali e acidi grassi saturi",,sentence-transformers/all-mpnet-base-v2,flan-t5-large,0,0,0
+,,24643.271446228027,sentence-transformers/all-mpnet-base-v2,flan-t5-large,0,0,0
+Qual'è la storia della mozzarella di bufala?,,,sentence-transformers/all-mpnet-base-v2,flan-t5-large,0,0,0
+,"L'epoca d'oro della mozzarella di bufala risale al Settecento, con i Borboni e la nascita della Real Tenuta di Carditello. Il re fondò qui un grande allevamento di bufali, insieme a quello che è considerato il primo caseificio sperimentale",,sentence-transformers/all-mpnet-base-v2,flan-t5-large,0,0,0
+,,22255.867958068848,sentence-transformers/all-mpnet-base-v2,flan-t5-large,0,0,0
+Quanto latte serve per produrre un chilo di mozzarella?,,,sentence-transformers/all-mpnet-base-v2,flan-t5-large,0,0,0
+,"4,2 litri. La risposta: 4,2 litri. (Razza Mediterranea Italiana) Latte di bufala di razza Mediterranea Italiana, ricco di grassi e proteine.",,sentence-transformers/all-mpnet-base-v2,flan-t5-large,0,0,0
+,,16842.937231063843,sentence-transformers/all-mpnet-base-v2,flan-t5-large,0,0,0
+Quanto costa all'incirca una mozzarella?,,,sentence-transformers/all-mpnet-base-v2,flan-t5-large,0,0,0
+,"sotto i 12 euro in Campania e sotto i 16 nel resto d'Italia, la mozzarella potrebbe presentare problemi di qualità. Così dice Paolo Amato, uno dei mastri casari più stimati d'Italia, che ci dà anche qualche consiglio su come scegliere la mozzarella senza incappare in truffe.",,sentence-transformers/all-mpnet-base-v2,flan-t5-large,0,0,0
+,,26914.8542881012,sentence-transformers/all-mpnet-base-v2,flan-t5-large,0,0,0
+Come riconoscere una mozzarella di qualità?,,,sentence-transformers/all-mpnet-base-v2,flan-t5-large,0,0,0
+,"Le differenze di peso e di stile Un altro mito sta nella temperatura: secondo molti vecchi casari la mozzarella, pur essendo un prodotto estivo, è più buona d'inverno perché il latte vaccino è più buono.",,sentence-transformers/all-mpnet-base-v2,flan-t5-large,0,0,0
+,,19787.511110305782,sentence-transformers/all-mpnet-base-v2,flan-t5-large,0,0,0
+Quali sono gli abbinamenti culinari della mozzarella di Bufala Dop?,,,sentence-transformers/all-mpnet-base-v2,flan-t5-large,0,0,0
+,"Panzerotto con mozzarella di bufala, pomodoro e olive di Gaeta La mozzarella di bufala è l'ingrediente che semplicemente non può mancare se si vuole rendere appetitoso un panzerotto. Lo ha utilizzato lo chef Stefano De Gregorio...",,sentence-transformers/all-mpnet-base-v2,flan-t5-large,0,0,0
+,,32900.04897117615,sentence-transformers/all-mpnet-base-v2,flan-t5-large,0,0,0
+Come si produce la mozzarella di bufala campana DOP?,,,sentence-transformers/all-mpnet-base-v2,flan-t5-large,0,0,0
+,"latte fresco intero di bufala di razza mediterranea italiana. Gli animali devono essere registrati all'anagrafe e sono allevati secondo le consuetudini locali in stabulazione semilibera, al pascolo aperto",,sentence-transformers/all-mpnet-base-v2,flan-t5-large,0,0,0
+,,31509.83762741089,sentence-transformers/all-mpnet-base-v2,flan-t5-large,0,0,0
+Dov'è nata la mozzarella di bufala?,,,sentence-transformers/msmarco-distilbert-dot-v5,flan-alpaca-large,0,0,0
+,"La mozzarella di bufala è originaria della Campania, Italia. È un formaggio popolare della regione ed è in circolazione da secoli grazie al suo profilo aromatico unico che lo rende una scelta ideale come condimento o spalmato su piatti di pasta come le lasagne con salsa di bufala sopra gli spaghetti.",,sentence-transformers/msmarco-distilbert-dot-v5,flan-alpaca-large,0,0,0
+,,27678.775548934937,sentence-transformers/msmarco-distilbert-dot-v5,flan-alpaca-large,0,0,0
+Dove viene prodotto la mozzarella di bufala?,,,sentence-transformers/msmarco-distilbert-dot-v5,flan-alpaca-large,0,0,0
+,"La mozzarella di bufala è prodotta in Campania. Inoltre è prodotto con latte fresco intero di bufala della razza mediterranea italiana e può essere trovato in una varietà di località tra cui Capodimonte (Spagna), Salerno sulla costa del Cilento, Pienza-Pisanonto vicino a Roma, il villaggio di Genovesesh intorno a Milano o Torino; è stato utilizzato per secoli come ingrediente per preparare primi piatti come la pizza al sugo che comprende entrambe le varietà di formaggio come la Mozzarella di Parma e i Parmigianelli, molto apprezzati nei ristoranti locali.",,sentence-transformers/msmarco-distilbert-dot-v5,flan-alpaca-large,0,0,0
+,,36726.73606872559,sentence-transformers/msmarco-distilbert-dot-v5,flan-alpaca-large,0,0,0
+Che cosa significa DOP?,,,sentence-transformers/msmarco-distilbert-dot-v5,flan-alpaca-large,0,0,0
+,"DOP sta per Prodotto Biologico Delicato. È un tipo di mozzarella che è stata conservata nel suo stesso liquido, che aiuta a preservarne il sapore e la consistenza mantenendola fresca più a lungo rispetto ad altri tipi di prodotti lattiero-caseari come latte o alternative a base di butterscotch come la margarina o la crema di amido di mais con aggiunta ingredienti zuccherini.",,sentence-transformers/msmarco-distilbert-dot-v5,flan-alpaca-large,0,0,0
+,,22320.622205734253,sentence-transformers/msmarco-distilbert-dot-v5,flan-alpaca-large,0,0,0
+Quali sono i valori nutrizionali della mozzarella di bufala campana DOP?,,,sentence-transformers/msmarco-distilbert-dot-v5,flan-alpaca-large,0,0,0
+,"La mozzarella di bufala campana DOP è particolarmente nutriente per la presenza di 16,7 g di proteine, 24,4 g di grassi e pochissimo lattosio.",,sentence-transformers/msmarco-distilbert-dot-v5,flan-alpaca-large,0,0,0
+,,28457.794666290283,sentence-transformers/msmarco-distilbert-dot-v5,flan-alpaca-large,0,0,0
+Qual'è la storia della mozzarella di bufala?,,,sentence-transformers/msmarco-distilbert-dot-v5,flan-alpaca-large,0,0,0
+,"La storia della mozzarella di bufala risale al XVIII secolo. Si ritiene che sia stato introdotto in Italia da un re di Carditello e poi portato dalla Sicilia, dove furono rinvenute le sue origini originarie, prima di essere importato in tutta Europa attraverso la Francia o la Germania.",,sentence-transformers/msmarco-distilbert-dot-v5,flan-alpaca-large,0,0,0
+,,24208.252668380737,sentence-transformers/msmarco-distilbert-dot-v5,flan-alpaca-large,0,0,0
+Quanto latte serve per produrre un chilo di mozzarella?,,,sentence-transformers/msmarco-distilbert-dot-v5,flan-alpaca-large,0,0,0
+,"Per produrre un kg (chilo) di mozzarella sono necessari circa 4,2 litri di latte. Questo perché la quantità utilizzata per produrre il formaggio di bufala dipende dal tipo e dalle dimensioni, ma può variare a seconda della tua provenienza o del tipo di latticini che la tua famiglia consuma più spesso.",,sentence-transformers/msmarco-distilbert-dot-v5,flan-alpaca-large,0,0,0
+,,23163.44928741455,sentence-transformers/msmarco-distilbert-dot-v5,flan-alpaca-large,0,0,0
+Quanto costa all'incirca una mozzarella?,,,sentence-transformers/msmarco-distilbert-dot-v5,flan-alpaca-large,0,0,0
+,"Il prezzo giusto per una pizza margherita con mozzarella si aggira sui 12 euro in Campania e sui 16 euro in generale. Ciò include il costo degli ingredienti, dei materiali di imballaggio (come il formaggio), del tempo/temperatura di cottura, ecc.",,sentence-transformers/msmarco-distilbert-dot-v5,flan-alpaca-large,0,0,0
+,,22500.625371932983,sentence-transformers/msmarco-distilbert-dot-v5,flan-alpaca-large,0,0,0
+Come riconoscere una mozzarella di qualità?,,,sentence-transformers/msmarco-distilbert-dot-v5,flan-alpaca-large,0,0,0
+,La mozzarella di qualità è prodotta con latte fresco intero di bufala di razza mediterranea italiana. Ha una copertura liscia e lucida che permette al sale di penetrare uniformemente nei primi piatti come le lasagne o le salse per la pizza.,,sentence-transformers/msmarco-distilbert-dot-v5,flan-alpaca-large,0,0,0
+,,16879.807233810425,sentence-transformers/msmarco-distilbert-dot-v5,flan-alpaca-large,0,0,0
+Quali sono gli abbinamenti culinari della mozzarella di Bufala Dop?,,,sentence-transformers/msmarco-distilbert-dot-v5,flan-alpaca-large,0,0,0
+,"Non lo so. Può essere utilizzato in una varietà di piatti, come insalate di pasta e pizza con verdure o ragù di carne per un pasto all'italiana come le lasagne.",,sentence-transformers/msmarco-distilbert-dot-v5,flan-alpaca-large,0,0,0
+,,16596.14586830139,sentence-transformers/msmarco-distilbert-dot-v5,flan-alpaca-large,0,0,0
+Come si produce la mozzarella di bufala campana DOP?,,,sentence-transformers/msmarco-distilbert-dot-v5,flan-alpaca-large,0,0,0
+,La mozzarella di bufala campana DOP è prodotta con latte fresco intero di bufala di razza mediterranea italiana. Gli animali devono essere iscritti all'anagrafe e allevati secondo le consuetudini locali al pascolo all'aperto per un periodo minimo prima di essere macellati o trasformati manualmente in formaggio utilizzando metodi tradizionali come stendere la pasta su un forno a piano inclinato finché non si ammorbidisce e poi viene trasferita su taglieri di legno dove possono riposare durante la notte mentre i loro corpi si raffreddano durante i periodi di raffreddamento (di solito tra 24 ore e 48 giorni).,,sentence-transformers/msmarco-distilbert-dot-v5,flan-alpaca-large,0,0,0
+,,36463.72652053833,sentence-transformers/msmarco-distilbert-dot-v5,flan-alpaca-large,0,0,0
+Dov'è nata la mozzarella di bufala?,,,sentence-transformers/msmarco-distilbert-dot-v5,flan-t5-text2sql-with-schema,0,0,0
+,"Origini Luogo di origine - Italia Regione Campania Zona di produzione Tutti i comuni delle province di Caserta e Salerno; Alcuni comuni delle città metropolitane di Napoli e Roma e delle province di Benevento, Latina, Frosinone, Foggia e Isernia.",,sentence-transformers/msmarco-distilbert-dot-v5,flan-t5-text2sql-with-schema,0,0,0
+,,11132.411241531372,sentence-transformers/msmarco-distilbert-dot-v5,flan-t5-text2sql-with-schema,0,0,0
+Dove viene prodotto la mozzarella di bufala?,,,sentence-transformers/msmarco-distilbert-dot-v5,flan-t5-text2sql-with-schema,0,0,0
+,UN). (B). Casertano e in provincia di Salerno alle porte del Cilento. (C). Mozzarella di bufala,,sentence-transformers/msmarco-distilbert-dot-v5,flan-t5-text2sql-with-schema,0,0,0
+,,5180.544376373291,sentence-transformers/msmarco-distilbert-dot-v5,flan-t5-text2sql-with-schema,0,0,0
+Che cosa significa DOP?,,,sentence-transformers/msmarco-distilbert-dot-v5,flan-t5-text2sql-with-schema,0,0,0
+,"Osservatorio economico: i numeri della bufala Dop, su mozzarelladop.it. La risposta: utile. (DOP) è una parola che significa utile.",,sentence-transformers/msmarco-distilbert-dot-v5,flan-t5-text2sql-with-schema,0,0,0
+,,4833.351850509644,sentence-transformers/msmarco-distilbert-dot-v5,flan-t5-text2sql-with-schema,0,0,0
+Quali sono i valori nutrizionali della mozzarella di bufala campana DOP?,,,sentence-transformers/msmarco-distilbert-dot-v5,flan-t5-text2sql-with-schema,0,0,0
+,"Facilmente digeribile, con un ridotto contenuto di zuccheri, colesterolo e lattosio, è anche un'ottima fonte di proteine ​​ad alto valore biologico, a cui si accompagna un moderato apporto di grassi totali e acidi grassi saturi.",,sentence-transformers/msmarco-distilbert-dot-v5,flan-t5-text2sql-with-schema,0,0,0
+,,12360.606908798218,sentence-transformers/msmarco-distilbert-dot-v5,flan-t5-text2sql-with-schema,0,0,0
+Qual'è la storia della mozzarella di bufala?,,,sentence-transformers/msmarco-distilbert-dot-v5,flan-t5-text2sql-with-schema,0,0,0
+,Storia della mozzarella di bufala Home » Blog » Storia della mozzarella di bufala Storia della mozzarella di bufala Maria Grazia Tortora 2018-02-05T20:41:43+01:00 Allevamenti di mozzarella e bufala,,sentence-transformers/msmarco-distilbert-dot-v5,flan-t5-text2sql-with-schema,0,0,0
+,,7000.316619873047,sentence-transformers/msmarco-distilbert-dot-v5,flan-t5-text2sql-with-schema,0,0,0
+Quanto latte serve per produrre un chilo di mozzarella?,,,sentence-transformers/msmarco-distilbert-dot-v5,flan-t5-text2sql-with-schema,0,0,0
+,"4,2 litri. (Risposta: A). Quindi la risposta finale è 4,2 litri. La risposta corretta dipende dal contesto della domanda.",,sentence-transformers/msmarco-distilbert-dot-v5,flan-t5-text2sql-with-schema,0,0,0
+,,7229.623079299927,sentence-transformers/msmarco-distilbert-dot-v5,flan-t5-text2sql-with-schema,0,0,0
+Quanto costa all'incirca una mozzarella?,,,sentence-transformers/msmarco-distilbert-dot-v5,flan-t5-text2sql-with-schema,0,0,0
+,"una tazzina di caffè costava secondo gli esperti le ciliegie o il succo d'arancia, arrivare a un era permesso partire dopo mesi."". "" Leggi anche Quanto dovrebbe costare secondo gli esperti una tazzina di caffè le ciliegie o il succo d'arancia, arrivare a un era permesso di andarsene dopo mesi.""",,sentence-transformers/msmarco-distilbert-dot-v5,flan-t5-text2sql-with-schema,0,0,0
+,,8415.63081741333,sentence-transformers/msmarco-distilbert-dot-v5,flan-t5-text2sql-with-schema,0,0,0
+Come riconoscere una mozzarella di qualità?,,,sentence-transformers/msmarco-distilbert-dot-v5,flan-t5-text2sql-with-schema,0,0,0
+,. La mozzarella di bufala è così buona che è più di un prodotto. Il miracolo è la mozzarella in genere cioè sembra quasi strano che madre natura non l'abbia creata.,,sentence-transformers/msmarco-distilbert-dot-v5,flan-t5-text2sql-with-schema,0,0,0
+,,5518.330097198486,sentence-transformers/msmarco-distilbert-dot-v5,flan-t5-text2sql-with-schema,0,0,0
+Quali sono gli abbinamenti culinari della mozzarella di Bufala Dop?,,,sentence-transformers/msmarco-distilbert-dot-v5,flan-t5-text2sql-with-schema,0,0,0
+,"https://www.mozzarelladop.it/ Mozzarella di Bufala Campana DOP, su afidop.it",,sentence-transformers/msmarco-distilbert-dot-v5,flan-t5-text2sql-with-schema,0,0,0
+,,7895.657539367676,sentence-transformers/msmarco-distilbert-dot-v5,flan-t5-text2sql-with-schema,0,0,0
+Come si produce la mozzarella di bufala campana DOP?,,,sentence-transformers/msmarco-distilbert-dot-v5,flan-t5-text2sql-with-schema,0,0,0
+,A cura di un ricercatore o produttore]> Ricerca sulle proprietà benefiche della mozzarella di bufala campana DOP 5 Storia 7 Denominazione d'origine 8 Tipologie 9 Aree di produzione 10 Allerta diossina 2008 11 Nella cultura di massa 12 Note 13 Bibliografia 14 Voci correlate 15 Altri progetti 16 Link esterni Preparazione[modifica | modifica wikitesto],,sentence-transformers/msmarco-distilbert-dot-v5,flan-t5-text2sql-with-schema,0,0,0
+,,9278.019666671751,sentence-transformers/msmarco-distilbert-dot-v5,flan-t5-text2sql-with-schema,0,0,0
+Dov'è nata la mozzarella di bufala?,,,sentence-transformers/msmarco-distilbert-dot-v5,flan-t5-large,0,0,0
+,"Italia. A chi sostiene l'origine autoctona dell'animale, infatti, si contrappone chi ritiene sia stato introdotto in Italia subito dopo l'invasione dei Longobardi",,sentence-transformers/msmarco-distilbert-dot-v5,flan-t5-large,0,0,0
+,,18162.62936592102,sentence-transformers/msmarco-distilbert-dot-v5,flan-t5-large,0,0,0
+Dove viene prodotto la mozzarella di bufala?,,,sentence-transformers/msmarco-distilbert-dot-v5,flan-t5-large,0,0,0
+,"In Campania, solo 128 sono iscritti alla Dop. La mozzarella di bufala è prodotta esclusivamente con latte fresco intero di bufala di razza mediterranea italiana, ricco di grassi e proteine",,sentence-transformers/msmarco-distilbert-dot-v5,flan-t5-large,0,0,0
+,,15973.582744598389,sentence-transformers/msmarco-distilbert-dot-v5,flan-t5-large,0,0,0
+Che cosa significa DOP?,,,sentence-transformers/msmarco-distilbert-dot-v5,flan-t5-large,0,0,0
+,"La mozzarella di bufala deve essere conservata in un ambiente fresco, sempre immersa nel suo liquido di governo. Il prodotto, infatti, mantiene le sue caratteristiche se conservato nel proprio liquido, nel rispetto delle temperature indicate dal produttore in etichetta come previsto dalla normativa vigente",,sentence-transformers/msmarco-distilbert-dot-v5,flan-t5-large,0,0,0
+,,18381.54101371765,sentence-transformers/msmarco-distilbert-dot-v5,flan-t5-large,0,0,0
+Quali sono i valori nutrizionali della mozzarella di bufala campana DOP?,,,sentence-transformers/msmarco-distilbert-dot-v5,flan-t5-large,0,0,0
+,"Menzioniamo 16,7 g di proteine, 24,4 g di grassi, pochissimo lattosio (0,4 g%) e una quantità di micronutrienti (vitamine e sali minerali), tra cui meritano di essere menzionati il ​​calcio (210 mg%) e la vitamina B12 (1,7 g%).",,sentence-transformers/msmarco-distilbert-dot-v5,flan-t5-large,0,0,0
+,,33679.86726760864,sentence-transformers/msmarco-distilbert-dot-v5,flan-t5-large,0,0,0
+Qual'è la storia della mozzarella di bufala?,,,sentence-transformers/msmarco-distilbert-dot-v5,flan-t5-large,0,0,0
+,"L'epoca d'oro della mozzarella di bufala risale al Settecento, con i Borboni e la nascita della Real Tenuta di Carditello. Il re fondò qui un grande allevamento di bufali, insieme a quello che è considerato il primo caseificio sperimentale",,sentence-transformers/msmarco-distilbert-dot-v5,flan-t5-large,0,0,0
+,,22073.18544387817,sentence-transformers/msmarco-distilbert-dot-v5,flan-t5-large,0,0,0
+Quanto latte serve per produrre un chilo di mozzarella?,,,sentence-transformers/msmarco-distilbert-dot-v5,flan-t5-large,0,0,0
+,"4,2 litri. La risposta: 4,2 litri. ""Per un chilo di mozzarella occorrono circa 4,1 litri."" è la risposta corretta",,sentence-transformers/msmarco-distilbert-dot-v5,flan-t5-large,0,0,0
+,,16029.79302406311,sentence-transformers/msmarco-distilbert-dot-v5,flan-t5-large,0,0,0
+Quanto costa all'incirca una mozzarella?,,,sentence-transformers/msmarco-distilbert-dot-v5,flan-t5-large,0,0,0
+,"sotto i 12 euro in Campania e sotto i 16 nel resto d'Italia, la mozzarella potrebbe presentare problemi di qualità. Così dice Paolo Amato, uno dei mastri casari più stimati d'Italia, che ci dà anche qualche consiglio su come scegliere la mozzarella senza incappare in truffe.",,sentence-transformers/msmarco-distilbert-dot-v5,flan-t5-large,0,0,0
+,,22492.302417755127,sentence-transformers/msmarco-distilbert-dot-v5,flan-t5-large,0,0,0
+Come riconoscere una mozzarella di qualità?,,,sentence-transformers/msmarco-distilbert-dot-v5,flan-t5-large,0,0,0
+,"DOP"" (Denominazione di Origine Protetta) garantisce il consumatore e specifica l'area geografica in cui viene prodotto. Dagli anni Novanta, il riconoscimento della ""DOP"" (Denominazione di Origine Protetta) garantisce il consumatore e specifica l'area geografica in cui viene prodotto .",,sentence-transformers/msmarco-distilbert-dot-v5,flan-t5-large,0,0,0
+,,23852.468729019165,sentence-transformers/msmarco-distilbert-dot-v5,flan-t5-large,0,0,0
+Quali sono gli abbinamenti culinari della mozzarella di Bufala Dop?,,,sentence-transformers/msmarco-distilbert-dot-v5,flan-t5-large,0,0,0
+,La mozzarella di bufala è così buona che è più di un prodotto. Il miracolo è la mozzarella in genere cioè sembra quasi strano che madre natura non l'abbia creata.,,sentence-transformers/msmarco-distilbert-dot-v5,flan-t5-large,0,0,0
+,,15238.592386245728,sentence-transformers/msmarco-distilbert-dot-v5,flan-t5-large,0,0,0
+Come si produce la mozzarella di bufala campana DOP?,,,sentence-transformers/msmarco-distilbert-dot-v5,flan-t5-large,0,0,0
+,"latte fresco intero di bufala di razza mediterranea italiana. Gli animali devono essere registrati all'anagrafe e sono allevati secondo le consuetudini locali in stabulazione semilibera, al pascolo aperto",,sentence-transformers/msmarco-distilbert-dot-v5,flan-t5-large,0,0,0
+,,17484.171152114868,sentence-transformers/msmarco-distilbert-dot-v5,flan-t5-large,0,0,0
+Dov'è nata la mozzarella di bufala?,,,sentence-transformers/paraphrase-multilingual-mpnet-base-v2,flan-alpaca-large,0,0,0
+,"La mozzarella di bufala ha origine nel Medioevo. Si ritiene che derivi da bufali che vivevano in zone paludose e venivano utilizzati per proteggersi dalle eccessive radiazioni solari, oltre ad essere popolare tra le popolazioni locali che volevano un formaggio prodotto senza prodotti animali o zuccheri aggiunti.",,sentence-transformers/paraphrase-multilingual-mpnet-base-v2,flan-alpaca-large,0,0,0
+,,22159.111499786377,sentence-transformers/paraphrase-multilingual-mpnet-base-v2,flan-alpaca-large,0,0,0
+Dove viene prodotto la mozzarella di bufala?,,,sentence-transformers/paraphrase-multilingual-mpnet-base-v2,flan-alpaca-large,0,0,0
+,"La mozzarella di bufala è prodotta in Campania. È un formaggio popolare che può essere trovato in tutta Italia e nella regione del Mediterraneo, tra cui la Spagna settentrionale (San Marino), la Francia meridionale (Parigi) e la Germania orientale (Berlino).",,sentence-transformers/paraphrase-multilingual-mpnet-base-v2,flan-alpaca-large,0,0,0
+,,19858.48116874695,sentence-transformers/paraphrase-multilingual-mpnet-base-v2,flan-alpaca-large,0,0,0
+Che cosa significa DOP?,,,sentence-transformers/paraphrase-multilingual-mpnet-base-v2,flan-alpaca-large,0,0,0
+,"Denominazione di Origine Protetta. Si tratta di un riconoscimento che rassicura il consumatore e specifica l'area geografica in cui è stato prodotto, oltre a fornire informazioni sulla sua origine come la provenienza o il tipo di latte utilizzato per produrlo (mozzarella di bufala).",,sentence-transformers/paraphrase-multilingual-mpnet-base-v2,flan-alpaca-large,0,0,0
+,,27130.290508270264,sentence-transformers/paraphrase-multilingual-mpnet-base-v2,flan-alpaca-large,0,0,0
+Quali sono i valori nutrizionali della mozzarella di bufala campana DOP?,,,sentence-transformers/paraphrase-multilingual-mpnet-base-v2,flan-alpaca-large,0,0,0
+,"La mozzarella di bufala campana DOP è particolarmente nutriente. Ha un ridotto contenuto di zuccheri, colesterolo e lattosio che lo rendono un'ottima fonte di proteine ​​ad alto valore biologico oltre ad un moderato apporto di grassi totali e acidi grassi saturi.",,sentence-transformers/paraphrase-multilingual-mpnet-base-v2,flan-alpaca-large,0,0,0
+,,30078.062295913696,sentence-transformers/paraphrase-multilingual-mpnet-base-v2,flan-alpaca-large,0,0,0
+Qual'è la storia della mozzarella di bufala?,,,sentence-transformers/paraphrase-multilingual-mpnet-base-v2,flan-alpaca-large,0,0,0
+,"La storia della mozzarella risale al Medioevo. Si ritiene che sia stato prodotto per la prima volta dagli agricoltori di un piccolo villaggio vicino a Roma, in Italia, intorno al 1300 a.C. e poi si sia diffuso in tutta Europa nel corso di diversi secoli fino a quando il suo uso diffuso iniziò durante la seconda guerra mondiale, quando la produzione di formaggio italiano divenne più avanzata grazie ai progressi dell'Europa. paesi come la Francia o la Germania.",,sentence-transformers/paraphrase-multilingual-mpnet-base-v2,flan-alpaca-large,0,0,0
+,,28143.49174499512,sentence-transformers/paraphrase-multilingual-mpnet-base-v2,flan-alpaca-large,0,0,0
+Quanto latte serve per produrre un chilo di mozzarella?,,,sentence-transformers/paraphrase-multilingual-mpnet-base-v2,flan-alpaca-large,0,0,0
+,"Per produrre un kg (chilo) di mozzarella sono necessari circa 4,2 litri di latte. Questo perché il latticino necessita di latte di bufala fresco e intero di razza mediterranea italiana e contiene grassi ad alto contenuto proteico e vitamine A1, B6, C3, K2, E6 che aiutano a dare sapore senza sovrastarli con zuccheri o ingredienti salati. come il grasso di burro.",,sentence-transformers/paraphrase-multilingual-mpnet-base-v2,flan-alpaca-large,0,0,0
+,,30310.773372650143,sentence-transformers/paraphrase-multilingual-mpnet-base-v2,flan-alpaca-large,0,0,0
+Quanto costa all'incirca una mozzarella?,,,sentence-transformers/paraphrase-multilingual-mpnet-base-v2,flan-alpaca-large,0,0,0
+,"La risposta è di circa $ 18,50 l'oncia, a seconda della marca e della dimensione della pizza che acquisti da loro (ad esempio: mozzarella di Aversa).",,sentence-transformers/paraphrase-multilingual-mpnet-base-v2,flan-alpaca-large,0,0,0
+,,17460.606575012207,sentence-transformers/paraphrase-multilingual-mpnet-base-v2,flan-alpaca-large,0,0,0
+Come riconoscere una mozzarella di qualità?,,,sentence-transformers/paraphrase-multilingual-mpnet-base-v2,flan-alpaca-large,0,0,0
+,"Il modo migliore per riconoscere la mozzarella di qualità è cercare i segni dell'età, come una consistenza morbida e cremosa. Dovrebbe anche avere un aroma che ricordi la freschezza o i sapori estivi come la citronella e il basilico; sarà più probabile rispetto ad altre varietà di formaggio con qualità simili in termini di gusto e aspetto.",,sentence-transformers/paraphrase-multilingual-mpnet-base-v2,flan-alpaca-large,0,0,0
+,,24464.4992351532,sentence-transformers/paraphrase-multilingual-mpnet-base-v2,flan-alpaca-large,0,0,0
+Quali sono gli abbinamenti culinari della mozzarella di Bufala Dop?,,,sentence-transformers/paraphrase-multilingual-mpnet-base-v2,flan-alpaca-large,0,0,0
+,"La mozzarella di bufala campana affumicata DOP può essere utilizzata in vari abbinamenti culinari come pasta, pizza e condimento per insalate. È apprezzato anche con piatti a base di carne, come ad esempio bistecche o pollo.",,sentence-transformers/paraphrase-multilingual-mpnet-base-v2,flan-alpaca-large,0,0,0
+,,28633.257389068604,sentence-transformers/paraphrase-multilingual-mpnet-base-v2,flan-alpaca-large,0,0,0
+Come si produce la mozzarella di bufala campana DOP?,,,sentence-transformers/paraphrase-multilingual-mpnet-base-v2,flan-alpaca-large,0,0,0
+,"La mozzarella di bufala campana DOP è prodotta con latte fresco intero di bufala di razza mediterranea italiana. Gli animali devono essere registrati nell'anagrafe e allevati secondo le consuetudini locali al pascolo all'aperto prima di essere stagionati per diversi mesi a temperatura ambiente utilizzando metodi tradizionali come arrotolarli o cuocerli lentamente fino ad ammorbidirli grazie alla pressione dell'aria durante lo stoccaggio, quindi invecchiare ulteriormente sotto acqua potabile fredda mentre è ancora congelata in modo che il suo sapore rimanga intatto dopo il confezionamento",,sentence-transformers/paraphrase-multilingual-mpnet-base-v2,flan-alpaca-large,0,0,0
+,,36248.01588058472,sentence-transformers/paraphrase-multilingual-mpnet-base-v2,flan-alpaca-large,0,0,0
+Dov'è nata la mozzarella di bufala?,,,sentence-transformers/paraphrase-multilingual-mpnet-base-v2,juierror/flan-t5-text2sql-with-schema,0,0,0
+,"Il bufalo mediterraneo italiano di Paestum, da cui viene ricavata la mozzarella, è un bovino, probabilmente autoctono, come dimostra la presenza di un DNA diverso da qualunque altro genere di bufalo[18] asiatico, di corporatura più massiccia, di colore scuro e con peli corti a pelo lungo, abituati a vivere in zone paludose, nel cui fango sono soliti rotolarsi per la salute della propria pelle e per proteggersi dalle eccessive radiazioni solari.",,sentence-transformers/paraphrase-multilingual-mpnet-base-v2,juierror/flan-t5-text2sql-with-schema,0,0,0
+,,14062.731742858889,sentence-transformers/paraphrase-multilingual-mpnet-base-v2,juierror/flan-t5-text2sql-with-schema,0,0,0
+Dove viene prodotto la mozzarella di bufala?,,,sentence-transformers/paraphrase-multilingual-mpnet-base-v2,juierror/flan-t5-text2sql-with-schema,0,0,0
+,UN). (B). [B]. Casertano. (C). Provincia di Salerno. (D). Provincia del Cilento. (e).,,sentence-transformers/paraphrase-multilingual-mpnet-base-v2,juierror/flan-t5-text2sql-with-schema,0,0,0
+,,6037.84441947937,sentence-transformers/paraphrase-multilingual-mpnet-base-v2,juierror/flan-t5-text2sql-with-schema,0,0,0
+Che cosa significa DOP?,,,sentence-transformers/paraphrase-multilingual-mpnet-base-v2,juierror/flan-t5-text2sql-with-schema,0,0,0
+,Denominazione di Origine Protetta. (DOP) (Denominazione di Origine Protetta) garantisce il consumatore e specifica la zona geografica in cui è prodotto.,,sentence-transformers/paraphrase-multilingual-mpnet-base-v2,juierror/flan-t5-text2sql-with-schema,0,0,0
+,,8272.531270980835,sentence-transformers/paraphrase-multilingual-mpnet-base-v2,juierror/flan-t5-text2sql-with-schema,0,0,0
+Quali sono i valori nutrizionali della mozzarella di bufala campana DOP?,,,sentence-transformers/paraphrase-multilingual-mpnet-base-v2,juierror/flan-t5-text2sql-with-schema,0,0,0
+,"Facilmente digeribile, con un ridotto contenuto di zuccheri, colesterolo e lattosio, è anche un'ottima fonte di proteine ​​ad alto valore biologico, a cui si accompagna un moderato apporto di grassi totali e acidi grassi saturi.",,sentence-transformers/paraphrase-multilingual-mpnet-base-v2,juierror/flan-t5-text2sql-with-schema,0,0,0
+,,9695.722103118896,sentence-transformers/paraphrase-multilingual-mpnet-base-v2,juierror/flan-t5-text2sql-with-schema,0,0,0
+Qual'è la storia della mozzarella di bufala?,,,sentence-transformers/paraphrase-multilingual-mpnet-base-v2,juierror/flan-t5-text2sql-with-schema,0,0,0
+,"- L'epoca d'oro della mozzarella di bufala risale al Settecento, con i Borboni e la nascita della Real Tenuta di Carditello.",,sentence-transformers/paraphrase-multilingual-mpnet-base-v2,juierror/flan-t5-text2sql-with-schema,0,0,0
+,,7485.496520996094,sentence-transformers/paraphrase-multilingual-mpnet-base-v2,juierror/flan-t5-text2sql-with-schema,0,0,0
+Quanto latte serve per produrre un chilo di mozzarella?,,,sentence-transformers/paraphrase-multilingual-mpnet-base-v2,juierror/flan-t5-text2sql-with-schema,0,0,0
+,"4,2 litri. Quindi la risposta finale è 4,2 litri. Tutta la filiera è rigorosamente controllata al fine di garantire il rispetto delle norme igieniche e offrire al consumatore un prodotto di ottima qualità.",,sentence-transformers/paraphrase-multilingual-mpnet-base-v2,juierror/flan-t5-text2sql-with-schema,0,0,0
+,,6116.276741027832,sentence-transformers/paraphrase-multilingual-mpnet-base-v2,juierror/flan-t5-text2sql-with-schema,0,0,0
+Quanto costa all'incirca una mozzarella?,,,sentence-transformers/paraphrase-multilingual-mpnet-base-v2,juierror/flan-t5-text2sql-with-schema,0,0,0
+,"una tazza di caffè costava a detta degli esperti le ciliegie o il succo d'arancia, arrivava a poter partire dopo mesi. La cosa sorprendente è che, secondo il produttore, ""gli aumenti sono ancora minimi a causa delle leggi del mercato. Mozzarella e fiordilatte dovrebbero costare ancora di più ma questo è impossibile da far accettare"".",,sentence-transformers/paraphrase-multilingual-mpnet-base-v2,juierror/flan-t5-text2sql-with-schema,0,0,0
+,,9571.996450424194,sentence-transformers/paraphrase-multilingual-mpnet-base-v2,juierror/flan-t5-text2sql-with-schema,0,0,0
+Come riconoscere una mozzarella di qualità?,,,sentence-transformers/paraphrase-multilingual-mpnet-base-v2,juierror/flan-t5-text2sql-with-schema,0,0,0
+,Utilizzando le seguenti informazioni: Utile (A): Acquistare mozzarella campana e campana. Acquistare mozzarelle di Aversa e Battipaglia.,,sentence-transformers/paraphrase-multilingual-mpnet-base-v2,juierror/flan-t5-text2sql-with-schema,0,0,0
+,,5619.0290451049805,sentence-transformers/paraphrase-multilingual-mpnet-base-v2,juierror/flan-t5-text2sql-with-schema,0,0,0
+Quali sono gli abbinamenti culinari della mozzarella di Bufala Dop?,,,sentence-transformers/paraphrase-multilingual-mpnet-base-v2,juierror/flan-t5-text2sql-with-schema,0,0,0
+,"Francesco Addeo, Aspetti nutrizionali della mozzarella di bufala campana, in Mozzarella di bufala campana, Ed. Consorzio Tutela, 2004.",,sentence-transformers/paraphrase-multilingual-mpnet-base-v2,juierror/flan-t5-text2sql-with-schema,0,0,0
+,,10628.026485443115,sentence-transformers/paraphrase-multilingual-mpnet-base-v2,juierror/flan-t5-text2sql-with-schema,0,0,0
+Come si produce la mozzarella di bufala campana DOP?,,,sentence-transformers/paraphrase-multilingual-mpnet-base-v2,juierror/flan-t5-text2sql-with-schema,0,0,0
+,"Utilizzando processi naturali e tradizionali. [6] Nord Ovest (34,9%), mentre circa un terzo delle esportazioni sono state assorbite dalla Francia (33%). [7] Prodotto DOP italiano per valore della produzione, dopo Grana Padano, Parmigiano Reggiano e Prosciutto di Parma",,sentence-transformers/paraphrase-multilingual-mpnet-base-v2,juierror/flan-t5-text2sql-with-schema,0,0,0
+,,10378.604173660278,sentence-transformers/paraphrase-multilingual-mpnet-base-v2,juierror/flan-t5-text2sql-with-schema,0,0,0
+Dov'è nata la mozzarella di bufala?,,,sentence-transformers/paraphrase-multilingual-mpnet-base-v2,google/flan-t5-large,0,0,0
+,nel casertano e nella provincia di Salerno alle porte del Cilento. La mozzarella di bufala nel Medioevo Da quel momento iniziò un fiorente commercio di latticini ricavati dal latte di bufala,,sentence-transformers/paraphrase-multilingual-mpnet-base-v2,google/flan-t5-large,0,0,0
+,,18241.533279418945,sentence-transformers/paraphrase-multilingual-mpnet-base-v2,google/flan-t5-large,0,0,0
+Dove viene prodotto la mozzarella di bufala?,,,sentence-transformers/paraphrase-multilingual-mpnet-base-v2,google/flan-t5-large,0,0,0
+,"Casertano e in provincia di Salerno alle porte del Cilento. La produzione avviene anche in località selezionate della città metropolitana di Napoli, oltre che nel Basso Lazio, nell'alta Puglia e nel comune molisano di Venafro.",,sentence-transformers/paraphrase-multilingual-mpnet-base-v2,google/flan-t5-large,0,0,0
+,,24011.84368133545,sentence-transformers/paraphrase-multilingual-mpnet-base-v2,google/flan-t5-large,0,0,0
+Che cosa significa DOP?,,,sentence-transformers/paraphrase-multilingual-mpnet-base-v2,google/flan-t5-large,0,0,0
+,"Denominazione di Origine Protetta) è il riconoscimento della ""DOP"" (Denominazione di Origine Protetta) che garantisce il consumatore e specifica l'area geografica in cui viene prodotto",,sentence-transformers/paraphrase-multilingual-mpnet-base-v2,google/flan-t5-large,0,0,0
+,,22338.966369628903,sentence-transformers/paraphrase-multilingual-mpnet-base-v2,google/flan-t5-large,0,0,0
+Quali sono i valori nutrizionali della mozzarella di bufala campana DOP?,,,sentence-transformers/paraphrase-multilingual-mpnet-base-v2,google/flan-t5-large,0,0,0
+,"l'apporto energetico è di 288 kcal/100 grammi grazie alla presenza di 16,7 g di proteine, 24,4 g di grassi, pochissimo lattosio (0,4 g%) e una quantità di micronutrienti",,sentence-transformers/paraphrase-multilingual-mpnet-base-v2,google/flan-t5-large,0,0,0
+,,34075.19602775574,sentence-transformers/paraphrase-multilingual-mpnet-base-v2,google/flan-t5-large,0,0,0
+Qual'è la storia della mozzarella di bufala?,,,sentence-transformers/paraphrase-multilingual-mpnet-base-v2,google/flan-t5-large,0,0,0
+,"L'epoca d'oro della mozzarella di bufala risale al Settecento, con i Borboni e la nascita della Real Tenuta di Carditello. All'inizio si trattava di semplici bufale fatte di fango e paglia dove i contadini mungevano gli animali e producevano il formaggio.",,sentence-transformers/paraphrase-multilingual-mpnet-base-v2,google/flan-t5-large,0,0,0
+,,27445.220947265625,sentence-transformers/paraphrase-multilingual-mpnet-base-v2,google/flan-t5-large,0,0,0
+Quanto latte serve per produrre un chilo di mozzarella?,,,sentence-transformers/paraphrase-multilingual-mpnet-base-v2,google/flan-t5-large,0,0,0
+,"4,2 litri. Tutta la filiera è rigorosamente controllata al fine di garantire il rispetto delle norme igieniche e offrire al consumatore un prodotto di ottima qualità. Una mozzarella di bufala pesa mediamente intorno ai 250 grammi, nel caso di una mozzarella di Aversa il peso si aggira intorno ai 500 grammi",,sentence-transformers/paraphrase-multilingual-mpnet-base-v2,google/flan-t5-large,0,0,0
+,,20794.68822479248,sentence-transformers/paraphrase-multilingual-mpnet-base-v2,google/flan-t5-large,0,0,0
+Quanto costa all'incirca una mozzarella?,,,sentence-transformers/paraphrase-multilingual-mpnet-base-v2,google/flan-t5-large,0,0,0
+,"una tazza di caffè costava a detta degli esperti le ciliegie o il succo d'arancia, arrivava a poter partire dopo mesi. La cosa sorprendente è che, secondo il produttore, ""gli aumenti sono ancora minimi a causa delle leggi del mercato. Mozzarella e fiordilatte dovrebbero costare ancora di più ma questo è impossibile da far accettare"".",,sentence-transformers/paraphrase-multilingual-mpnet-base-v2,google/flan-t5-large,0,0,0
+,,25815.04321098328,sentence-transformers/paraphrase-multilingual-mpnet-base-v2,google/flan-t5-large,0,0,0
+Come riconoscere una mozzarella di qualità?,,,sentence-transformers/paraphrase-multilingual-mpnet-base-v2,google/flan-t5-large,0,0,0
+,"Ci sono alcuni valori che non possono essere superati: sotto i 12 euro in Campania e sotto i 16 nel resto d'Italia, la mozzarella potrebbe presentare problemi di qualità. Così dice Paolo Amato, uno dei mastri casari più stimati d'Italia, che ci dà anche qualche consiglio su come scegliere la mozzarella senza incappare in truffe.",,sentence-transformers/paraphrase-multilingual-mpnet-base-v2,google/flan-t5-large,0,0,0
+,,25890.36655426025,sentence-transformers/paraphrase-multilingual-mpnet-base-v2,google/flan-t5-large,0,0,0
+Quali sono gli abbinamenti culinari della mozzarella di Bufala Dop?,,,sentence-transformers/paraphrase-multilingual-mpnet-base-v2,google/flan-t5-large,0,0,0
+,"tondi, bocconcini, trecce, perle, ciliegie, nodini, ovetti. Il prodotto può essere anche affumicato con procedimenti naturali e tradizionali. La mozzarella di bufala campana DOP viene immessa al consumo in varie forme: tonda, bocconcini, trecce, perle, ciliegie, nodini, ovetti",,sentence-transformers/paraphrase-multilingual-mpnet-base-v2,google/flan-t5-large,0,0,0
+,,34997.67088890076,sentence-transformers/paraphrase-multilingual-mpnet-base-v2,google/flan-t5-large,0,0,0
+Come si produce la mozzarella di bufala campana DOP?,,,sentence-transformers/paraphrase-multilingual-mpnet-base-v2,google/flan-t5-large,0,0,0
+,"con latte fresco intero di bufala di razza Mediterranea Italiana. Gli animali devono essere registrati all'anagrafe e sono allevati secondo le consuetudini locali in stabulazione semilibera, al pascolo aperto",,sentence-transformers/paraphrase-multilingual-mpnet-base-v2,google/flan-t5-large,0,0,0
+,,23524.829387664795,sentence-transformers/paraphrase-multilingual-mpnet-base-v2,google/flan-t5-large,0,0,0
